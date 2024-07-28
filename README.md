@@ -1,4 +1,4 @@
-# Bakery Receipt Blog
+# 'Bakery Receipt Blog'
 
 ## Description
 
